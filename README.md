@@ -51,7 +51,6 @@ This interactive Power BI dashboard explores trends in job postings, salaries, s
 ## 📂 Files Included
 
 - `HR_Analytics.pbix` – Power BI file
-- `job_data.csv` – Sample anonymized dataset
 - `README.md` – This file
 
 
